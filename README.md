@@ -3,7 +3,11 @@
 
 https://github.com/akshay3thakur/Stationary-Mart-App/assets/102411963/37330d0f-f465-4f2b-a0df-b4a9df38562c
 
+WEBSITE LINK - https://akshay3thakur.github.io/Stationary-Mart-Website/
+![image](https://github.com/akshay3thakur/Stationary-Mart-App/assets/102411963/237be228-d7bd-45ac-a507-cab9ec5e2804)
+
 App.js DESCRIPTION-
+
 The App.js file is importing the following components:
 •	NavigationContainer: A component from React Navigation that provides the infrastructure for managing navigation between screens in app.
 •	createNativeStackNavigator: A function from React Navigation that creates a stack navigator, which is a type of navigator that allows users to navigate between screens in a linear fashion.
@@ -23,6 +27,7 @@ How the website is integrated into fetching the data inserted from the app
 4.	Displayed the data on the website.
 
 DATA TYPES-
+
 Column 1 - Varchar (should start with "AC-")
 Functionality: This column is expected to store text values that start with "AC-".
 Data Type: VARCHAR
