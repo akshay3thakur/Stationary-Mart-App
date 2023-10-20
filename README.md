@@ -7,6 +7,7 @@ The app's primary focus is on managing and interacting with a product database. 
 https://github.com/akshay3thakur/Stationary-Mart-App/assets/102411963/37330d0f-f465-4f2b-a0df-b4a9df38562c
 
 WEBSITE LINK - https://akshay3thakur.github.io/Stationary-Mart-Website/
+
 ![image](https://github.com/akshay3thakur/Stationary-Mart-App/assets/102411963/237be228-d7bd-45ac-a507-cab9ec5e2804)
 
 App.js DESCRIPTION-
