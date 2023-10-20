@@ -1,5 +1,5 @@
 # Stationary-Mart-App
-Description
+DESCRIPTION-
 The app's primary focus is on managing and interacting with a product database. Users can insert, update, and remove products while also searching for specific products by their ID. The Help Center component offers user support through various contact methods, and the Play Screen acts as the app's central navigation point, giving users access to the main features. Finally, the View Products Screen allows users to view a list of available products. The users can also shop through the website!
 
 
