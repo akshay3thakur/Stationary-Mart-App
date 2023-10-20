@@ -1,6 +1,6 @@
 # Stationary-Mart-App
 Description
-The app's primary focus is on managing and interacting with a product database. Users can insert, update, and remove products while also searching for specific products by their ID. The Help Center component offers user support through various contact methods, and the Play Screen acts as the app's central navigation point, giving users access to the main features. Finally, the View Products Screen allows users to view a list of available products.
+The app's primary focus is on managing and interacting with a product database. Users can insert, update, and remove products while also searching for specific products by their ID. The Help Center component offers user support through various contact methods, and the Play Screen acts as the app's central navigation point, giving users access to the main features. Finally, the View Products Screen allows users to view a list of available products. The users can also shop through the website!
 
 
 https://github.com/akshay3thakur/Stationary-Mart-App/assets/102411963/37330d0f-f465-4f2b-a0df-b4a9df38562c
